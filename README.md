@@ -25,12 +25,11 @@
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
 
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
-</a> 
-
 **<h3><p align="center">Profile views</p></h3>**
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/felipe-martini/count.svg"/>
 </p>
 
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a> 
