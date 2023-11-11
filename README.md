@@ -30,7 +30,6 @@
     <img alingn="center" src="https://profile-counter.glitch.me/felipe-martini/count.svg"/>
 </p>
 
-<a href="#">
-  <img style="transform: rotate(90deg);" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+<a href="#" style="display: block; transform: rotate(180deg);">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
-
