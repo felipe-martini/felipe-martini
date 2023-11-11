@@ -25,9 +25,8 @@
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
 
-
+**<h3><p align="center">Profile views</p></h3>**
 <p align="center">
-  **<h3><p align="center">Profile views</p></h3>**
     <img alingn="center" src="https://profile-counter.glitch.me/felipe-martini/count.svg"/>
 </p>
 
