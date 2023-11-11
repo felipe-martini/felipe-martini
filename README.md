@@ -31,6 +31,6 @@
 </p>
 
 <a href="#">
-  <img style="transform: rotate(180deg);" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+  <img style="transform: rotate(90deg);" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
