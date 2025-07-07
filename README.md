@@ -11,7 +11,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-martini-di-marchi-de-oliveira/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/martini.lipe/)
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-martini&show_icons=true&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/felipe-martini">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-martini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-martini&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-martini&hide_border=true&theme=tokyonight&show_icons=true&locale=en&layout=donut)](https://github.com/felipe-martini/github-readme-stats)
 
