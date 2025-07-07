@@ -3,7 +3,7 @@
 </a>
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Felipe;I'm+a+RPA+Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.demolab.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Felipe;I'm+a+RPA+Developer;Be+Welcome!+%E3%83%84)
 <br>
 
 ## My networks:<br>
