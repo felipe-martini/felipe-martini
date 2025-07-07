@@ -13,7 +13,7 @@
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-martini&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-martini&layout=compact&hide_progress=true)](https://github.com/felipe-martini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-martini&layout=compact&hide_progress=false)](https://github.com/felipe-martini/github-readme-stats)
 
 ## Technologies I like and am studying:
 
