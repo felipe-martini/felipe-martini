@@ -3,7 +3,7 @@
 </a>
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Felipe;I'm+a+RPA+Developer;Be+Welcome!+%E3%83%84)
+![Typing SVG](https://readme-typing-svg.demolab.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Felipe;I'm+a+Backend+Developer;Be+Welcome!+%E3%83%84)
 <br>
 
 ## My networks:<br>
@@ -23,7 +23,6 @@
   <img align="center" alt="PYTHON" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img align="center" alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
 **<h3><p align="center">Profile views</p></h3>**
